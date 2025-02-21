@@ -1,4 +1,3 @@
-import Navbar from "@/components/Navbar/Navbar";
 import "@/app/globals.css";
 import HeaderMain from "@/components/Header/HeaderMain";
 import Footer from "@/components/Footer/Footer";

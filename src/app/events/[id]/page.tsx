@@ -20,11 +20,6 @@ interface Event {
   ticket_price: number;
 }
 
-// ✅ Dynamic Import for Performance
-const DynamicEventDetail = dynamic(() => import("./page"), {
-  loading: () => <p className="text-center text-gray-500 text-lg">Loading event details...</p>,
-});
-
 export default function EventDetailPage() {
   const { id } = useParams();
   const [event, setEvent] = useState<Event | null>(null);
