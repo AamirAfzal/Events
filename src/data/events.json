@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Rock Explosion Tour",
+    "category": "Rock",
+    "artist": "The Rolling Stones",
+    "date": "2024-09-15",
+    "time": "19:00",
+    "venue": "Madison Square Garden, NYC",
+    "image": "/images/rock-explosion.jpg",
+    "description": "Join The Rolling Stones for an unforgettable night of rock music!",
+    "ticket_price": 150
+  },
+  {
+    "id": 2,
+    "name": "Pop Queens Live",
+    "category": "Pop",
+    "artist": "Dua Lipa & Ariana Grande",
+    "date": "2024-10-05",
+    "time": "20:00",
+    "venue": "Staples Center, LA",
+    "image": "/images/pop-queens-live.jpg",
+    "description": "Dance to the biggest pop hits with Dua Lipa and Ariana Grande!",
+    "ticket_price": 120
+  },
+  {
+    "id": 3,
+    "name": "Smooth Jazz Night",
+    "category": "Jazz",
+    "artist": "Norah Jones",
+    "date": "2024-08-25",
+    "time": "18:30",
+    "venue": "Blue Note Jazz Club, NYC",
+    "image": "/images/jazz-night.jpg",
+    "description": "Relax and unwind with the soothing tunes of Norah Jones.",
+    "ticket_price": 80
+  },
+  {
+    "id": 4,
+    "name": "Bass Drop Festival",
+    "category": "EDM",
+    "artist": "Martin Garrix",
+    "date": "2024-09-30",
+    "time": "22:00",
+    "venue": "Ultra Music Festival, Miami",
+    "image": "/images/bass-drop-festival.jpg",
+    "description": "Get ready for an electrifying night of EDM madness with Martin Garrix!",
+    "ticket_price": 180
+  },
+  {
+    "id": 5,
+    "name": "Hip-Hop Takeover",
+    "category": "Hip-Hop",
+    "artist": "Kendrick Lamar",
+    "date": "2024-11-12",
+    "time": "21:00",
+    "venue": "Barclays Center, Brooklyn",
+    "image": "/images/hiphop-takeover.jpg",
+    "description": "Experience the raw energy and beats of Kendrick Lamar!",
+    "ticket_price": 100
+  },
+  {
+    "id": 6,
+    "name": "Country Star Night",
+    "category": "Country",
+    "artist": "Taylor Swift",
+    "date": "2024-12-08",
+    "time": "20:00",
+    "venue": "Nissan Stadium, Nashville",
+    "image": "/images/country-star-night.jpg",
+    "description": "Enjoy a magical evening with Taylor Swift’s country hits!",
+    "ticket_price": 200
+  },
+  {
+    "id": 7,
+    "name": "Classical Elegance",
+    "category": "Classical",
+    "artist": "Yo-Yo Ma",
+    "date": "2024-10-22",
+    "time": "19:30",
+    "venue": "Carnegie Hall, NYC",
+    "image": "/images/classical-elegance.jpg",
+    "description": "Immerse yourself in the timeless beauty of Yo-Yo Ma’s cello performances.",
+    "ticket_price": 90
+  },
+  {
+    "id": 8,
+    "name": "Reggae Vibes Fest",
+    "category": "Reggae",
+    "artist": "Damian Marley",
+    "date": "2024-09-10",
+    "time": "18:00",
+    "venue": "Bob Marley Museum, Kingston",
+    "image": "/images/reggae-vibes-fest.jpg",
+    "description": "Feel the groove with reggae legend Damian Marley!",
+    "ticket_price": 70
+  }
+]

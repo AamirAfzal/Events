@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Robert Downey Jr.",
+    "role": "Founder & Event Manager",
+    "image": "/images/robertdowneyjr.png",
+    "description": "Visionary leader with a passion for creating unforgettable events. Expert in event planning and execution."
+  },
+  {
+    "id": 2,
+    "name": "Chris Hemsworth",
+    "role": "Creative Director",
+    "image": "/images/chrishemsworth.jpg",
+    "description": "Brings artistic vision to life. Ensures every event has a unique and breathtaking aesthetic."
+  },
+  {
+    "id": 3,
+    "name": "Scarlett Johansson",
+    "role": "Marketing & Communications",
+    "image": "/images/scarlettjohansson.jpg",
+    "description": "Crafts compelling marketing campaigns and communication strategies to engage audiences."
+  },
+  {
+    "id": 4,
+    "name": "Mark Ruffalo",
+    "role": "Technical Lead",
+    "image": "/images/markruffalo.jpg",
+    "description": "Manages all technical aspects, from event live-streaming to digital innovation."
+  },
+  {
+    "id": 5,
+    "name": "Brie Larson",
+    "role": "Operations Manager",
+    "image": "/images/brielarson.jpg",
+    "description": "Ensures seamless execution of events by managing logistics, staff, and workflow."
+  },
+  {
+    "id": 6,
+    "name": "Tom Holland",
+    "role": "Head of Partnerships",
+    "image": "/images/tomholland.jpg",
+    "description": "Builds strategic alliances and partnerships to expand event reach and impact."
+  },
+  {
+    "id": 7,
+    "name": "Chris Evans",
+    "role": "Customer Experience Manager",
+    "image": "/images/chrisevans.jpg",
+    "description": "Dedicated to providing top-tier guest experiences and ensuring satisfaction."
+  },
+  {
+    "id": 8,
+    "name": "Elizabeth Olsen",
+    "role": "Finance & Budgeting",
+    "image": "/images/elizabetholsen.jpg",
+    "description": "Manages budgets and ensures financial sustainability for every event."
+  },
+  {
+    "id": 9,
+    "name": "Benedict Cumberbatch",
+    "role": "Content Strategist",
+    "image": "/images/benedictcumberbatch.jpg",
+    "description": "Develops creative content strategies to engage audiences across multiple platforms."
+  },
+  {
+    "id": 10,
+    "name": "Jeremy Renner",
+    "role": "Social Media Manager",
+    "image": "/images/jeremyrenner.jpg",
+    "description": "Manages online presence and engagement, creating buzz for events on social platforms."
+  }
+]

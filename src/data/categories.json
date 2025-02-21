@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Rock",
+    "image": "/images/rock-music.jpg",
+    "description": "Experience the electrifying energy of rock concerts, featuring legendary bands and emerging artists delivering powerful performances."
+  },
+  {
+    "id": 2,
+    "name": "Pop",
+    "image": "/images/pop-music.jpg",
+    "description": "Sing along to chart-topping hits at pop concerts, where dazzling performances and catchy tunes create an unforgettable atmosphere."
+  },
+  {
+    "id": 3,
+    "name": "Jazz",
+    "image": "/images/jazz-music.jpg",
+    "description": "Immerse yourself in the smooth and soulful melodies of jazz, with live performances from talented musicians in an intimate setting."
+  },
+  {
+    "id": 4,
+    "name": "EDM",
+    "image": "/images/edm-music.png",
+    "description": "Feel the bass drop at EDM festivals, where world-class DJs and stunning visuals come together for an electrifying dance music experience."
+  },
+  {
+    "id": 5,
+    "name": "Hip-Hop",
+    "image": "/images/hiphop-music.jpg",
+    "description": "Get hyped with the beats and rhymes of top hip-hop artists, delivering high-energy performances that celebrate culture and creativity."
+  },
+  {
+    "id": 6,
+    "name": "Classical",
+    "image": "/images/classical-music.jpg",
+    "description": "Experience the timeless beauty of classical music, featuring symphonies, orchestras, and solo performances from world-renowned musicians."
+  },
+  {
+    "id": 7,
+    "name": "Reggae",
+    "image": "/images/reggae-music.png",
+    "description": "Feel the rhythm of reggae music with soulful melodies and uplifting lyrics, bringing the essence of Jamaica to life on stage."
+  },
+  {
+    "id": 8,
+    "name": "Country",
+    "image": "/images/country-music.jpg",
+    "description": "Enjoy the heartfelt storytelling and twangy melodies of country music, with live performances from top country artists and bands."
+  }
+]
