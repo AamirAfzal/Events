@@ -20,7 +20,7 @@ export default function Navbar() {
             <Link
               key={href}
               href={href}
-              className={`${styles.navbar__link} ${pathname === href} relative text-lg`}
+              className={`${styles.navbar__link} ${pathname === href} relative text-3xl`}
             >
               {label}
             </Link>
