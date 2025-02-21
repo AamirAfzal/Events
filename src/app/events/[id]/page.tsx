@@ -1,5 +1,4 @@
 "use client";
-import dynamic from "next/dynamic";
 import { useParams } from "next/navigation";
 import Image from "next/image";
 import { useEffect, useState } from "react";
