@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function HeroSection() {
   return (
-    <div className="p-12">
+    <div>
       <div className="relative w-full h-[800px]">
         {/* Hero Image */}
         <Image
